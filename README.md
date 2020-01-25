@@ -9,7 +9,7 @@ Used :
       
       3)    Microchip 23LC512 : 512Kbit SPI Serial SRAM with SDI and SQI Interface $2.5
       
-      4)    Cheap SC Card rader form Aliexpres  $0.5
+      4)    Cheap SC Card rader form Aliexpress  $0.5
       
 
 In action : https://youtu.be/oHyz87CWHZA - without SPI Ram
