@@ -7,8 +7,8 @@ Used :
       3)    Microchip 23LC512 : 512Kbit SPI Serial SRAM with SDI and SQI Interface $2.5
       4)    Cheap SC Card rader form Aliexpres  $0.5
 
-In action : https://youtu.be/oHyz87CWHZA - without SPI Ram
-IN action : https://youtu.be/LYUZpmviRTI - 64KB SPI Ram
+In action : https://youtu.be/oHyz87CWHZA - without SPI Ram\r\n
+In action : https://youtu.be/LYUZpmviRTI - 64KB SPI Ram
 
 Programmed using Arduino.
 The project uses a 6502 processor emulator "fake6502" available at http://rubbermallet.org/fake6502.c
