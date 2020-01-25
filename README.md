@@ -2,12 +2,18 @@
 STM32 player for Commodore 64 SID files. (6581/8580)
 
 Used :
-      1)    Stm32F103C8T6 board ( aka BLuePill ) prince $2
-      2)    SwinSID Nano - replacement for SID 6581 8580 chip ( used for testing ) price $15
-      3)    Microchip 23LC512 : 512Kbit SPI Serial SRAM with SDI and SQI Interface $2.5
-      4)    Cheap SC Card rader form Aliexpres  $0.5
 
-In action : https://youtu.be/oHyz87CWHZA - without SPI Ram\r\n
+      1)    Stm32F103C8T6 board ( aka BLuePill ) prince $2
+      
+      2)    SwinSID Nano - replacement for SID 6581 8580 chip ( used for testing ) price $15
+      
+      3)    Microchip 23LC512 : 512Kbit SPI Serial SRAM with SDI and SQI Interface $2.5
+      
+      4)    Cheap SC Card rader form Aliexpres  $0.5
+      
+
+In action : https://youtu.be/oHyz87CWHZA - without SPI Ram
+
 In action : https://youtu.be/LYUZpmviRTI - 64KB SPI Ram
 
 Programmed using Arduino.
